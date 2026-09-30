@@ -1,4 +1,13 @@
 # React + Vite
+# Day 12 - React Supabase
+
+This project connects React with Supabase and fetches users data from the Supabase database.
+
+## Supabase Users
+
+The React app fetches users from Supabase and displays them in a table.
+
+## Proof / Screenshot
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
