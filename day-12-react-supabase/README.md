@@ -8,6 +8,8 @@ This project connects React with Supabase and fetches users data from the Supaba
 The React app fetches users from Supabase and displays them in a table.
 
 ## Proof / Screenshot
+<img width="1366" height="768" alt="dayyyy12" src="https://github.com/user-attachments/assets/17638c66-dd88-41c9-8691-d0a09bde35e4" />
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
